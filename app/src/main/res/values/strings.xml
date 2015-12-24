@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RH Speak</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="speak">Speak It</string>
+    <string name="hint">What do you want me to speak?</string>
+    <string name="result">Result</string>
+
+</resources>
